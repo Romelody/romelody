@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Solventa
-- 🌱 I’m currently learning FireBase
+- 🔭 I’m currently working on Offcode
+- 🌱 I’m currently learning many things
