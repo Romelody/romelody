@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning many things
 -->
 
-<img alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/03.gif">
+<p align="center" > 
+    <img width="300" alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/03.gif">
+</p>
 
 # About Me
 
