@@ -41,5 +41,6 @@ I'm Melody, 27 years old 🌱 and a Frontend Devoloper/Graphic Designer/UX. My p
 On my 3 years coding at work, i learn many things and the most important is patience. Keep trying and learning. This is a long journey.
 
 
-
-<img alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/02.gif">
+<p align="center" >  
+    <img width="150" alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/02.gif">
+</p>
