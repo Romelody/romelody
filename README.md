@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I’m currently working on Offcode
 - 🌱 I’m currently learning many things
+-->
+
+#Hello there!
+
+<img alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/03.gif">
