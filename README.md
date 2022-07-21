@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm Melody, 27 years old 🌱 and a Frontend Devoloper/Graphic Designer/UX. My pronouns are she/they.
 <img width="30" alt="GIF" align="center" src="https://github.com/romelody/romelody/blob/master/assets/01.gif">
-<img alt="GIF" align="right" src="https://github.com/romelody/romelody/blob/master/assets/04.gif">
+<img width="275" alt="GIF" align="right" src="https://github.com/romelody/romelody/blob/master/assets/04.gif">
 ### Code
 <ul>
     <li>Html + Css</li>
